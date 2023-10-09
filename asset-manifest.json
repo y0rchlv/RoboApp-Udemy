@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboApp-Udemy/static/css/main.77ee4a42.css",
+    "main.js": "/RoboApp-Udemy/static/js/main.5bb0c3b5.js",
+    "static/js/787.d3befce1.chunk.js": "/RoboApp-Udemy/static/js/787.d3befce1.chunk.js",
+    "static/media/SEGA.woff": "/RoboApp-Udemy/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboApp-Udemy/index.html",
+    "main.77ee4a42.css.map": "/RoboApp-Udemy/static/css/main.77ee4a42.css.map",
+    "main.5bb0c3b5.js.map": "/RoboApp-Udemy/static/js/main.5bb0c3b5.js.map",
+    "787.d3befce1.chunk.js.map": "/RoboApp-Udemy/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ee4a42.css",
+    "static/js/main.5bb0c3b5.js"
+  ]
+}
